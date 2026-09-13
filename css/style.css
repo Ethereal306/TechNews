@@ -157,6 +157,15 @@ img {
 
 }
 
+.page-link {
+color : #12544f !important
+}
+.page-item.active .page-link {
+    background-color: #12544F !important;
+    border-color: #12544f !important;
+    color: #ffffff !important;
+}
+
 .card-body a {}
 
 @keyframes marquee {
