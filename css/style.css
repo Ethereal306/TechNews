@@ -43,10 +43,6 @@ button.toggle-mode {
     font-size: 1.5rem;
 }
 
-.berita-utama {
-    padding: 2rem 0;
-    background-color: #f4f4f4;
-}
 
 .side-title {
     display :-webkit-box;
@@ -112,14 +108,6 @@ img {
     font-family: "Google Sans", sans-serif;
 }
 
-.wrapper {
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-    padding: 15px;
-    flex-grow: 1;
-}
-
 .button1 {
     padding: 10px;
     border-radius: 5px;
@@ -166,7 +154,10 @@ color : #12544f !important
     color: #ffffff !important;
 }
 
-.card-body a {}
+.footer {
+background-color: #092328;
+/* min-height: 360px; */
+}
 
 @keyframes marquee {
     0% {
